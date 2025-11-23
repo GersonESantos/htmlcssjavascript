@@ -2,11 +2,11 @@
 /* Importa duas fontes do Google Fonts: "Open Sans" e "Roboto" (com pesos 400 e 700). 
    O parâmetro display=swap garante que o texto use uma fonte de fallback até as fontes carregarem. */
 
- * {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-} 
+} */
 /* Reset básico: remove margens e espaçamentos padrão de todos os elementos.
    Define o box-sizing como border-box, fazendo com que largura/altura incluam borda e padding. */
 
